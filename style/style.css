@@ -25,3 +25,8 @@
 .list-group-item:hover{
     background-color: #eee;
 }
+
+.videoSearch {
+  margin-right: 12px;
+  font-weight: bold;
+}

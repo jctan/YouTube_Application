@@ -1,4 +1,4 @@
-# YouTube Application
+# YouTube Viewer
 
 ### Getting Started
 
@@ -8,8 +8,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/jctan/YouTube_Application.git
-> cd YouTube_Application
+> git clone https://github.com/jctan/YouTube_Viewer.git
+> cd YouTube_Viewer
 > npm install
 > npm start
 ```
